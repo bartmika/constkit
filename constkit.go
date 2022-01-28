@@ -12,6 +12,7 @@ func ListAllDiseases() []*health.Disease {
 	return health.Diseases
 }
 
-func ListAllIllnesses() []*health.Illness {
-	return health.Illnesses
+// ListAllNHSIllnesses return a list of common disease, illnesses and conditions according to the Scotland's national health information service (NHS).
+func ListAllNHSIllnesses() []*health.NHSIllness {
+	return health.NHSIllnesses
 }
