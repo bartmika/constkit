@@ -1,4 +1,7 @@
-# Constants Kit (IN PROGRESS)
+# Constants Kit
+[![GoDoc](https://godoc.org/github.com/gomarkdown/markdown?status.svg)](https://pkg.go.dev/github.com/bartmika/constkit)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bartmika/constkit)](https://goreportcard.com/report/github.com/bartmika/constkit)
+
 A curated list of constants and some additional functions you can use in your Golang code.
 
 ## Installation
