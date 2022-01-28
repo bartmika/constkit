@@ -4,7 +4,6 @@ type Disease struct {
 	Name string
 }
 
-// https://www.nhsinform.scot/illnesses-and-conditions/a-to-z
 // https://en.wikipedia.org/wiki/Lists_of_diseases
 
 var Diseases = []*Disease{

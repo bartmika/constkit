@@ -11,3 +11,7 @@ func ListAllAlergies() []*health.Allergy {
 func ListAllDiseases() []*health.Disease {
 	return health.Diseases
 }
+
+func ListAllIllnesses() []*health.Illness {
+	return health.Illnesses
+}
