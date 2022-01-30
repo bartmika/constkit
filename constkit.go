@@ -1,7 +1,7 @@
 package constkit
 
 import (
-	"github.com/bartmika/constkit/health"
+	"github.com/bartmika/go-constkit/health"
 )
 
 func ListAllAlergies() []*health.Allergy {

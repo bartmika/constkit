@@ -1,6 +1,6 @@
 # Constants Kit
-[![GoDoc](https://godoc.org/github.com/gomarkdown/markdown?status.svg)](https://pkg.go.dev/github.com/bartmika/constkit)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bartmika/constkit)](https://goreportcard.com/report/github.com/bartmika/constkit)
+[![GoDoc](https://godoc.org/github.com/gomarkdown/markdown?status.svg)](https://pkg.go.dev/github.com/bartmika/go-constkit)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bartmika/go-constkit)](https://goreportcard.com/report/github.com/bartmika/go-constkit)
 
 A curated list of constants and some additional functions you can use in your Golang code.
 
@@ -9,7 +9,7 @@ A curated list of constants and some additional functions you can use in your Go
 In your Golang project, please run:
 
 ```
-go get github.com/bartmika/constkit
+go get github.com/bartmika/go-constkit
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ go get github.com/bartmika/constkit
 import (
     "fmt"
 
-    "github.com/bartmika/constkit"
+    "github.com/bartmika/go-constkit"
 )
 
 allergies := constkit.ListAllAlergies()
